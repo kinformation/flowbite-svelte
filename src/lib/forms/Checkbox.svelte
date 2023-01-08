@@ -5,7 +5,7 @@
   import Label from './Label.svelte';
 
   // properties forwarding
-  export let color: FormColorType = 'blue';
+  export let color: FormColorType = 'red';
   export let custom: boolean = false;
   export let inline: boolean = false;
 
